@@ -1,4 +1,4 @@
-# amq-protocol
+# AMQP 0.9 specifications
 
 [![Build Status](https://travis-ci.org/sozu-proxy/amq-protocol.svg?branch=master)](https://travis-ci.org/sozu-proxy/amq-protocol)
 [![Build status](https://ci.appveyor.com/api/projects/status/pfmdxw3you5o86u8/branch/master?svg=true)](https://ci.appveyor.com/project/Keruspe/amq-protocol/branch/master)
